@@ -15,15 +15,13 @@ KusakIT
 
 ### 👨‍💻: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland 🇵🇱.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a programmist and IT. I do all kind of coding.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring SQL, C++, C#, Python, Java, PHP 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I do programming or watch movies (sometimes gaming)
 
-- :mailbox:How to reach me: <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
-" width="30"></img>
-
+- :mailbox:How to reach me: hubert.kusak@proton.me
 
 <!--
 **kusakIT/kusakIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
