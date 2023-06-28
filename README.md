@@ -21,8 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![ProtonMail Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
-))](hubert.kusak@proton.me)
+- :mailbox:How to reach me: [![ProtonMail Badge]([https://res.cloudinary.com/practicaldev/image/fetch/s--ADkqhPhy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/ProtonMail-8B89CC%3Fstyle%3Dfor-the-badge%26logo%3Dprotonmail%26logoColor%3Dwhite](hubert.kusak@proton.me)
 
 
 <!--
