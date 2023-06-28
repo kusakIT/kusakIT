@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<center><h1>KusakIT</h1></center>
 <p align="center">
   <img width="auto" height="auto" src="https://komarev.com/ghpvc/?username=kusakIT&style=flat-square&color=blue">
 </p>
